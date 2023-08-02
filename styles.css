@@ -1,0 +1,42 @@
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+header nav img{
+    width: 70px;
+    height:70px !important;
+}
+.header_btn, .first_section_btn {
+    border: 1px solid #FD780F;
+    padding: 8px 20px;
+    background-color: #FD780F;
+    color: white;
+    border-radius: 50px;
+    box-shadow: 0px 10px 30px 0px #fd760f71;
+    
+}
+.trusted {
+    color: #FD780F;
+}
+.trusted:last-child:hover {
+    color: #994809;
+}
+
+@media (max-width: 500px) {
+    header {
+    }
+    nav .flex-wrap{
+        flex-wrap: nowrap;
+
+    }
+    nav div button {
+        display: none !important;
+    }
+        .last_div_nav a{
+        padding: 5px 10px;
+    }
+    .farabiulder_header_text {
+        display: none;
+    }
+    
+    
+}
