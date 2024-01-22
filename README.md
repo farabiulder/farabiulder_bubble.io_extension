@@ -2,7 +2,7 @@
 
 ## Hakkında
 
-Farabiulder, bubble.io platformu için özel olarak tasarlanmış bir Google Extension geliştirmiştir. Bu eklenti, bubble.io kullanıcılarının deneyimini geliştirmek ve platformda daha verimli çalışmalarına yardımcı olmak için tasarlanmıştır. Eklentinin kaynak kodları, [Farabiulder'ın GitHub deposunda](https://github.com/farabiulder) açık kaynak olarak yayınlanmıştır.
+Farabiulder, bubble.io platformu için özel olarak tasarlanmış bir Google Extension geliştirmiştir. Bu eklenti, bubble.io kullanıcılarının deneyimini geliştirmek ve platformda daha verimli çalışmalarına yardımcı olmak için tasarlanmıştır. 
 
 ## Özellikler
 
@@ -32,8 +32,5 @@ Bu eklentiyi bubble.io projenize eklemek için aşağıdaki adımları takip edi
 
 ## Katkıda Bulunma
 
-Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Eğer bu eklentiye bir özellik eklemek, hata düzeltmek veya başka bir geliştirme yapmak isterseniz, lütfen [farabiulder GitHub deposuna](https://github.com/farabiulder) gidin ve bir "Pull Request" oluşturun. Ayrıca, bulduğunuz herhangi bir hatayı veya öneriyi "Issues" bölümünde bize bildirebilirsiniz.
+Eğer bu projeye katkı sağlamak istiyorsanız lütfen bizimle iletişime geçininiz. farabiulder@gmail.com
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE dosyasını](https://github.com/farabiulder/LICENSE) inceleyebilirsiniz.
