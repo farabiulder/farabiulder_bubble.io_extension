@@ -40,3 +40,10 @@ header nav img{
     
     
 }
+
+@media (max-width: 768px) {
+    .mobile-reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
